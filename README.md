@@ -15,7 +15,7 @@ it does not install a driver or flash firmware.
 
 ## Usage
 
-Open `https://asuskb.hiumee.com` in desktop Chrome or Edge, click **Connect
+Open https://asuskb.hiumee.com in desktop Chrome or Edge, click **Connect
 keyboard**, and approve the ASUS device in the browser picker.
 
 ## Run locally
